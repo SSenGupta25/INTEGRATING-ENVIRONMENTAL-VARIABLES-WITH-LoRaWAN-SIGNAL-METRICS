@@ -1,2 +1,4 @@
 # INTEGRATING-ENVIRONMENTAL-VARIABLES-WITH-LoRaWAN-SIGNAL-METRICS
 INTEGRATING ENVIRONMENTAL VARIABLES WITH LoRaWAN SIGNAL METRICS: A COMPREHENSIVE ANALYSIS OF THE VINEYARD 2021 DATASET
+
+In this project, we are going to consider the environmental conditions that are integrated with LoRaWAN signal analysis. Considering the public dataset available as "Vineyard 2021" which is an analysis done for 85 days with multiple LoRaWAN nodes placed across 12 sqkm. It records RSSI(Received Signal Strength Indicator), signal-to-noise ratio (SNR), and global positioning system (GPS) information, along with temperature, humidity, and pressure data. The motivation of our project is to analyze any statical pattern that can be drawn out which can further be implemented for industrial as well as academic research tasks (AI tasks).
